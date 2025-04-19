@@ -1,1 +1,1 @@
-# To-Do-App
+A simple and interactive To-Do List web app built with HTML, CSS, and JavaScript. You can add tasks, mark them as complete, delete, search, and sort them. Data is stored using Local Storage so your tasks stay even after you refresh!
